@@ -1,0 +1,96 @@
+
+.bg-container {
+    background-color: #e6f6ff;
+    height: 100vh;
+    width: 100vw;
+}
+
+.top-container {
+    background-color: #fb4e71;
+    color: #ffffff;
+    padding: 10px;
+}
+
+
+
+.mhead {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.mpara {
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.img-size {
+    height: 150px;
+    width: 120px;
+    padding: 10px;
+    background-size: cover;
+}
+
+.bottomhead {
+    font-family: Roboto;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.top2-container {
+    background-color: #ffffff;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.img2-size {
+    height: 190px;
+    width: 120px;
+    padding: 10px;
+    background-size: cover;
+}
+
+.smhead {
+    font-family: Roboto;
+    padding: 8px;
+    font-size: 20px;
+}
+
+.smpara {
+    color: #888888;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.bheading {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.b-container {
+    background-color: #e6f6ff;
+    padding: 10px;
+
+}
+
+.bp {
+    font-family: Roboto;
+    font-size: 17px;
+}
+
+.klimg {
+    height: 110px;
+}
+
+.button {
+    padding: 10px;
+    text-align: center;
+
+}
+
+.bbtn {
+    border-radius: 5px;
+}
